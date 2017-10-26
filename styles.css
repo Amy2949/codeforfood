@@ -1,3 +1,6 @@
-.navbar navbar-default {
-    background-color: red
+.navbar.navbar-default {
+    background-color: #D0E3C4
+}
+.nav.navbar-nav.navbar-right {
+    color: #C05746
 }
