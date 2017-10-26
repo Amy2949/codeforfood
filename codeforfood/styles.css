@@ -1,0 +1,13 @@
+.navbar.navbar-default {
+	background-color: #D0E3C4
+}
+.nav.navbar-nav.navbar-right {
+	color: #C05746
+}
+.carousel-picture {
+	height: 500px;
+	min-width: 100%;
+}
+
+.carousel-caption {
+	color: #C05746;
