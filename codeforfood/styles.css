@@ -1,0 +1,48 @@
+.navbar.navbar-default {
+	background-color: #D0E3C4
+}
+.nav.navbar-nav.navbar-right {
+	color: #C05746
+}
+.carousel-picture {
+	height: 500px;
+	min-width: 100%;
+}
+
+.carousel-caption {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: -1;
+	font-weight: 800;
+	border: solid 4px #fff !important;
+	padding: 4px 20px;
+}
+
+h2 {
+	color: #1C1B1B;
+	display: inline-block;
+	padding: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background: #FFF;
+}
+
+h4 {
+	padding: 10px;
+	background: #ADC698;
+	text-shadow: 0px 0px 2px #505050;
+}
+
+.boxed {
+	width: 320px;
+	height: 160px;
+	top: 50%;
+	left: 50%;
+	margin-left: -150px;
+	margin-top: -100px
+}
+
+img:hover {
+    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    filter: blur(4px);
+}
