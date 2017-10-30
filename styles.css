@@ -1,5 +1,13 @@
 .navbar.navbar-default {
-	background-color: #D0E3C4
+    background-color: #D0E3C4;
+}
+.nav.navbar-nav.navbar-right {
+    back: #C05746;
+    float: center;
+}
+.navbar-brand {
+    color: #C05746
+/* 	background-color: #D0E3C4 */
 }
 .nav.navbar-nav.navbar-right {
 	color: #C05746
@@ -14,7 +22,7 @@
 	text-transform: uppercase;
 	letter-spacing: -1;
 	font-weight: 800;
-	border: solid 4px #fff !important;
+	border: solid 4px #fff;
 	padding: 4px 20px;
 }
 
