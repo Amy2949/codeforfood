@@ -76,3 +76,20 @@ img:hover {
   webkit-filter: blur(4px); /* Chrome, Safari, Opera */
   filter: blur(4px);
 }
+
+.submit-form {
+  background-color: rgba(255,255,255,0.5);
+}
+
+
+.submit-body {
+  font-size: 12
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url(https://s1.postimg.org/4gn9fq1p33/Untitled_design.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+    padding: 20px;
+  text-shadow: 0px 0px 10px #505050
+}
