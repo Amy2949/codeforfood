@@ -1,3 +1,5 @@
+/*navigation*/
+
 .navbar.navbar-default {
   background-color: #D0E3C4;
 }
@@ -26,9 +28,10 @@ body {
   height: 100;
 }
 
+
 #vegan_soup {
   background-color: #ADC698
-}
+
 
 .soup {
   color: #503047;
@@ -54,12 +57,12 @@ h2 {
   padding: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background: #FFF;
+  background: #D0E3C4;
 }
 
 h4 {
   padding: 10px;
-  background: #ADC698;
+  background: #C05746;
   text-shadow: 0px 0px 2px #505050;
 }
 
@@ -76,3 +79,24 @@ img:hover {
   webkit-filter: blur(4px); /* Chrome, Safari, Opera */
   filter: blur(4px);
 }
+
+/*submit*/
+
+.submit-form {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.submit-body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url(https://s1.postimg.org/4gn9fq1p33/Untitled_design.png) no-repeat center center fixed;
+  background-size: cover;
+    padding: 10px;
+  text-shadow: #505050
+}
+
+h6 {
+  color: #C05746;
+  font-size: 30px;
+  font-weight: 600;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
